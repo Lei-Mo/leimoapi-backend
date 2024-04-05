@@ -31,6 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-
+test/
 application-dev.yml
 application-prod.yml
